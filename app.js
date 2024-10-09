@@ -15,6 +15,7 @@ app.get("/filmes", function(req, res) {
             <li>Filme 2: Interestelar</li>
             <li>Filme 3: Vingadores: Ultimato</li>
             <li>Filme 4: A volta dos que não foram</li>
+            <li>Filme 5: Harry Potter</li>
         </ul>
         <p><a href='/'>Voltar para a página inicial</a></p>
     `);
