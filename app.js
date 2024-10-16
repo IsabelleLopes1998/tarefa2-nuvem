@@ -19,6 +19,7 @@ app.get("/filmes", function(req, res) {
             <li>Filme 6: Huck</li>
             <li>Filme 7: Pantera cor de rosa</li>
             <li>Filme 8: Efeito borboleta</li>
+            <li>Filme 9: Thor</li>
 
         </ul>
         <p><a href='/'>Voltar para a página inicial</a></p>
